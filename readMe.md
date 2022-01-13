@@ -10,3 +10,6 @@ git bash가 자신의 컴퓨터에 설치되어 있어야 한다.
 userName.txt 파일에 사용자 계정 이름을 적는다.    
 serverAddress.txt 파일에 서버 주소를 적는다.    
 (gitBash를 연결 프로그램으로 해서)run.sh를 실행한다.    
+
+### 실행한 모습
+![실행 캡쳐](https://user-images.githubusercontent.com/60867063/149254814-0d23ca55-afd1-404d-88da-96cb6b646842.png)
